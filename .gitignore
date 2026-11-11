@@ -3,3 +3,11 @@ node_modules/
 --pycache--/
 *.pycache
 .vscode/
+
+
+# Local AI Context Anchor
+anchor.md
+
+# Python & Jupyter Cache
+__pycache__/
+.ipynb_checkpoints/
